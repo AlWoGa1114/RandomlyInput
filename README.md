@@ -6,6 +6,11 @@ OF POTENTIAL MISHAPS DUE TO THIS
 KEY
 -----------------------------------------------------------
 
+Reccomendation:
+-Have an auto backup system for your save state file such as
+google drive incase of system failure
+-----------------------------------------------------------
+
 Dependancies:
 -Windows OS (just what I'm using, can work with
 linux or Mac with minor installation differences)
